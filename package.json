@@ -1,0 +1,27 @@
+{
+  "name": "JS_Blockchain_Express",
+  "version": "1.0.0",
+  "description": "A more advanceed blockchain using express API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbromley94/JS_Blockchain_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbromley94/JS_Blockchain_Express/issues"
+  },
+  "homepage": "https://github.com/jbromley94/JS_Blockchain_Express#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.2",
+    "promise": "^8.0.1",
+    "request-promise": "^4.2.2"
+  }
+}
